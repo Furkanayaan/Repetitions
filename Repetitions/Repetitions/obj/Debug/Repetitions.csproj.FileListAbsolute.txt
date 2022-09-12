@@ -1,0 +1,6 @@
+C:\Users\a\RiderProjects\Repetitions\Repetitions\Repetitions\bin\Debug\Repetitions.dll
+C:\Users\a\RiderProjects\Repetitions\Repetitions\Repetitions\bin\Debug\Repetitions.pdb
+C:\Users\a\RiderProjects\Repetitions\Repetitions\Repetitions\obj\Debug\Repetitions.csproj.AssemblyReference.cache
+C:\Users\a\RiderProjects\Repetitions\Repetitions\Repetitions\obj\Debug\Repetitions.csproj.CoreCompileInputs.cache
+C:\Users\a\RiderProjects\Repetitions\Repetitions\Repetitions\obj\Debug\Repetitions.dll
+C:\Users\a\RiderProjects\Repetitions\Repetitions\Repetitions\obj\Debug\Repetitions.pdb
